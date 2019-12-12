@@ -1,8 +1,10 @@
 import React from 'react';
 import { Text } from 'react-native';
 
+import SignIn from './pages/SignIn';
+
 // import { Container } from './styles';
 
 export default function App() {
-  return <Text>Test</Text>;
+  return <SignIn />;
 }
