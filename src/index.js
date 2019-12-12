@@ -1,10 +1,7 @@
 import React from 'react';
-import { Text } from 'react-native';
 
-import SignIn from './pages/SignIn';
-
-// import { Container } from './styles';
+import Routes from './routes';
 
 export default function App() {
-  return <SignIn />;
+  return <Routes />;
 }
