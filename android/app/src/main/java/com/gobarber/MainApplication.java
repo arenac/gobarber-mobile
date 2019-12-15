@@ -1,4 +1,4 @@
-package com.gympoint;
+package com.gobarber;
 
 import android.app.Application;
 import android.content.Context;
