@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface gympointTests : XCTestCase
+@interface gobarberTests : XCTestCase
 
 @end
 
-@implementation gympointTests
+@implementation gobarberTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
