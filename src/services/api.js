@@ -7,7 +7,7 @@ const api = axios.create({
    * Genymotion -> 10.0.3.2
    * USB -> PC IP
    */
-  baseURL: 'http://localhost:3333',
+  baseURL: 'http://192.168.2.107:3333',
 });
 
 export default api;
